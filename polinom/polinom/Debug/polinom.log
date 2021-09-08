@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\jundto.SNIRW\tp\td_vs\polinom\polinom\Source.cpp(29,35): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+D:\jundto.SNIRW\tp\td_vs\polinom\polinom\Source.cpp(30,35): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+D:\jundto.SNIRW\tp\td_vs\polinom\polinom\Source.cpp(34,31): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+D:\jundto.SNIRW\tp\td_vs\polinom\polinom\Source.cpp(35,31): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+  polinom.vcxproj -> D:\jundto.SNIRW\tp\td_vs\polinom\Debug\polinom.exe
